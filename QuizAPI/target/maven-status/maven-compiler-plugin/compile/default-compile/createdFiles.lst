@@ -1,0 +1,16 @@
+com\qa\rest\QuizEndpoint.class
+com\qa\business\service\QuizService.class
+com\qa\util\Constants.class
+com\qa\persistence\domain\Account.class
+com\qa\rest\AccountEndpoint.class
+com\qa\business\service\AccountServiceImpl.class
+com\qa\business\service\AccountService.class
+com\qa\persistence\domain\Quiz.class
+com\qa\util\JSONUtil.class
+com\qa\persistence\repository\QuizDBRepository.class
+com\qa\persistence\repository\AccountRepository.class
+com\qa\rest\CORSFilter.class
+com\qa\business\service\QuizServiceImpl.class
+com\qa\persistence\repository\AccountDBRepository.class
+com\qa\persistence\repository\QuizRepository.class
+com\qa\rest\JAXActivator.class
